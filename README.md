@@ -23,7 +23,7 @@ The primary goal of this project was to create an online presence that reflects 
 Features :
 
 Home Page with Introduction:
-The landing section welcomes visitors with a brief self-introduction, a professional tagline, and a call-to-action button (e.g., “Hire Me” or “View Resume”). Smooth scroll and animations add elegance to the overall user experience.
+The landing section welcomes visitors with a brief self-introduction, a professional tagline, and a call-to-action button (e.g., “Hire Me” or “View Resume”). Smooth scroll and animations add elegance to the overall user experience. 
 
 About Section:
 
